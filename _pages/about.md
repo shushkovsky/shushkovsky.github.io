@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.S. Computational Biology, 2024 
+subtitle: B.S. Computational Biology, 2024
 
 profile:
   align: right
