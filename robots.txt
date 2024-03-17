@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maxshushkovsky.github.io/sitemap.xml
+Sitemap: https://shushkovsky.github.io/sitemap.xml
