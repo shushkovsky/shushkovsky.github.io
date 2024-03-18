@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.S. Computational Biology, 2024
+subtitle: B.S. Computational Biology, 2024 <br/> Carnegie Mellon University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profilePic.HEIC
   image_circular: false # crops the image to make it circular
   more_info: >
     
