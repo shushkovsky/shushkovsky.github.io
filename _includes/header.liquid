@@ -52,12 +52,14 @@
 
           <!-- About -->
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/' | relative_url }}">
-              {{- about_title }}
-              {% if page.permalink == '/' %}
-                <span class="sr-only">(current)</span>
-              {% endif %}
-            </a>
+            <span class="font-weight-bold">
+              <a class="nav-link" href="{{ '/' | relative_url }}">
+                {{- about_title }}
+                {% if page.permalink == '/' %}
+                  <span class="sr-only">(current)</span>
+                {% endif %}
+              </a>
+            </span>
           </li>
 
           <!-- Other pages -->
@@ -112,12 +114,10 @@
             {% endif %}
           {% endfor %}
           {% if site.enable_darkmode %}
-
-          <!-- RESUME -->
-          <li class="nav-item">
-            <a class="nav-link" href="{{ '/assets/pdf/Shushkovsky_Max_Resume.pdf' | relative_url }}">{{ "resume" }}
-            </a>
-          </li>
+            <!-- RESUME -->
+            <li class="nav-item">
+              <a class="nav-link" href="{{ '/assets/pdf/Shushkovsky_Max_Resume.pdf' | relative_url }}">{{ 'resume' }} </a>
+            </li>
             <!-- Toogle theme mode -->
             <li class="toggle-container">
               <button id="light-toggle" title="Change theme">
