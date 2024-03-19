@@ -1,12 +1,12 @@
 ---
 layout: about
-title: Max C. Shushkovsky
+title: about
 permalink: /
 subtitle: B.S. Computational Biology, 2024 <br/> Carnegie Mellon University
 
 profile:
   align: right
-  image: profilePic.HEIC
+  image: profilePic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Studying computational biology at Carnegie Mellon University's School of Computer Science with a minor in Russian.
+I'm studying computational biology at Carnegie Mellon University's School of Computer Science with a minor in Russian Studies. I played collegiate soccer for CMU as a midfielder.
