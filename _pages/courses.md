@@ -29,21 +29,13 @@ Description
 <details id="comp-bio">
   <summary>Click to expand</summary>
 
-- Review 1: This is a review for the Comp Bio course.
+  **test class**  
+  02-xx &nbsp;&#183;&nbsp; Fall 2022  
+  Overall: <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>  
+  Difficulty: Very chill  
+  Professor: test
 
-## Genome Editing Biotechnology
-
-        03-728 &nbsp;&#183;&nbsp; fall 2022
-
-        overall: <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-        &nbsp; &nbsp;
-        difficulty: very chill
-        &nbsp; &nbsp;
-        prof: Stephanie Wong-Noonan
-
-        Highly recommend this class!
-
-        &nbsp;
+  Highly recommend this class!
 
 </details>
 
@@ -65,7 +57,23 @@ Description
 <details id="russian">
   <summary>Click to expand</summary>
 
-    test
+**Russian Course**  
+XX-XXX &nbsp;&#183;&nbsp; ___ 20XX  
+Overall: <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i>  
+Difficulty:  
+Professor:  
+
+Description
+
+---
+
+**Russian Course**  
+XX-XXX &nbsp;&#183;&nbsp; ___ 20XX  
+Overall: <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i>  
+Difficulty:  
+Professor:  
+
+Description
 
 </details>
 
