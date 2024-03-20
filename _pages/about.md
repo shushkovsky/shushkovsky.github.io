@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: B.S. Computational Biology, 2024 <br/> Carnegie Mellon University
 
