@@ -58,7 +58,6 @@ Description
   <summary>Click to expand</summary>
 
   <h1><b>82-192 Elementary Russian II 
-  <time datetime="Spring 2023">
   <p>Description_test 1</p>
 
 <br>
@@ -75,3 +74,5 @@ Description
 
   <h1><b>82-394 Russian for Heritage Speakers
   <p>Description_test 2</p>
+
+</details>
