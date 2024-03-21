@@ -16,3 +16,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 I'm studying computational biology at Carnegie Mellon University's School of Computer Science with a minor in Russian Studies. I played collegiate soccer for CMU as a midfielder.
+
+In the past, I interned at Amazon Web Services in Seattle, played semi-pro soccer in the NPSL, and interned at PostEra. 
+
+After graduation, I'll be working full time as a software at PostEra.
