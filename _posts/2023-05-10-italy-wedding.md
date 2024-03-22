@@ -3,7 +3,7 @@ layout: post
 title: Italy Summer Wedding
 date: 2023-05-10
 description: Went to Italy for our family friend's wedding
-thumbnail: assets/img/italy_wedding/img_5602.jpg
+thumbnail: assets/img/italy_wedding/IMG_5602.jpg
 ---
 
 <div class="row mt-3">
