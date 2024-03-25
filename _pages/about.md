@@ -20,3 +20,5 @@ I'm studying computational biology at Carnegie Mellon University's School of Com
 In the past, I interned at Amazon Web Services in Seattle, played semi-pro soccer in the NPSL, and interned at PostEra. 
 
 After graduation, I'll be working full time as a software engineer at PostEra.
+
+Outside of work and school, I love to play volleyball, small-sided soccer, and footvolley.
