@@ -45,7 +45,7 @@ nav_order: 2
 <details id="comp-sci">
   <summary>Click to expand</summary>
   <ul>
-    <li><b>15-112 Fundamentals of Prograaming and CS</b> <i>Fall 2020</i>
+    <li><b>15-112 Fundamentals of Programming and CS</b> <i>Fall 2020</i>
     </li>
     <li><b>15-151 Mathematical Foundations of CS</b> <i>Fall 2020</i>
     </li>
