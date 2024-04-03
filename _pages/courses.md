@@ -78,10 +78,14 @@ nav_order: 2
       <p>Learned how to write letters, read, and conjugate verbs</p>
     </li>
     <li><b>82-391 Advanced Russian I</b> <i>Fall 2023</i>
-      <p>Did a lot of reading of short stories</p>
+      <p>Sang a lot of songs:
+      <a href="https://www.youtube.com/watch?v=dkhNCahl45Q&list=PLqwrcI0BDlPojuweVYboEtED5saUM7hPt&index=1">Ах, золотые купола</a>, 
+      <a href="https://www.youtube.com/watch?v=dkhNCahl45Q&https://www.youtube.com/watch?v=0xYigp7DCWA&list=PLqwrcI0BDlPojuweVYboEtED5saUM7hPt&index=3">Когда весна стучит в окно</a>, 
+      <a href="https://www.youtube.com/watch?v=hlGqMZ2FAko&list=PLqwrcI0BDlPojuweVYboEtED5saUM7hPt&index=4">Ты да я, да мы с тобой</a>
+      </p>
     </li>
     <li><b>82-392 Advanced Russian II</b> <i>Spring 2024</i>
-      <p>Did a lot more reading of slightly longer short stories</p>
+      <p>Read a lot of short stories</p>
     </li>
     <li><b>82-394 Russian for Heritage Speakers</b> <i>Spring 2024</i>
       <p>Read poems everyday and read even longer short stories. <br>
