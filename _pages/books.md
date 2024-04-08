@@ -32,8 +32,14 @@ nav_order: 4
     <div>
         <h5>Books that have left an impression on me</h5>
     </div>
-    <div>
-        <h3><b>2024</b></h3>
+    <div class="book">
+        <div>
+            <h2>Wandering Stars</h2>
+            <p>Sholem Aleichem</p>
+        </div>
+        <div class = "book img">
+        {% include figure.liquid loading="eager" path="assets/img/books/wanderingStars.jpg" class="img-fluid rounded z-depth-1" %}
+        </div> 
     </div>
     <div class="book">
         <div>
@@ -115,6 +121,15 @@ nav_order: 4
         <div class = "book img">
         {% include figure.liquid loading="eager" path="assets/img/books/night.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
+    </div>
+    <div class="book">
+        <div>
+            <h2>Soccernomics</h2>
+            <p>Stefan Szymanski, Simon Kuper</p>
+        </div>
+        <div class = "book img">
+        {% include figure.liquid loading="eager" path="assets/img/books/soccernomics.jpg" class="img-fluid rounded z-depth-1" %}
+        </div> 
     </div>
     <div class="book">
         <div>
