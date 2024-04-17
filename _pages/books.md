@@ -140,6 +140,15 @@ nav_order: 4
         {% include figure.liquid loading="eager" path="assets/img/books/moleculeAway.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
+    <div class="book">
+        <div>
+            <h2>The Dark Tourist</h2>
+            <p>Dom Joly</p>
+        </div>
+        <div class = "book img">
+        {% include figure.liquid loading="eager" path="assets/img/books/darkTourist.jpg" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
 
     <!-- Add more book entries as needed -->
 
