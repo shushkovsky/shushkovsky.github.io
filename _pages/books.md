@@ -149,6 +149,15 @@ nav_order: 4
         {% include figure.liquid loading="eager" path="assets/img/books/darkTourist.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
+    <div class="book">
+        <div>
+            <h2>What Strange Paradise</h2>
+            <p>Omar El Akkad</p>
+        </div>
+        <div class = "book img">
+        {% include figure.liquid loading="eager" path="assets/img/books/strangeParadise.jpg" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
 
     <!-- Add more book entries as needed -->
 

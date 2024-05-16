@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: B.S. Computational Biology, 2024 <br/> Carnegie Mellon University
+subtitle: B.S. Computational Biology, 2024 <br/> M.S. Computational Biology, 2025 <br/> Carnegie Mellon University
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm studying computational biology at Carnegie Mellon University's School of Computer Science with a minor in Russian Studies. I played collegiate soccer for CMU as a midfielder.
+I did my undergraduate degree in computational biology at Carnegie Mellon University's School of Computer Science with a minor in Russian Studies. Following that, I'll be part of CMU's first ever integrated comp bio masters's degree cohort. Also, I played collegiate soccer for CMU as a midfielder.
 
 In the past, I interned at Amazon Web Services in Seattle, played semi-pro soccer in the NPSL, and interned at PostEra. 
 

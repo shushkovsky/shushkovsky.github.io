@@ -2,7 +2,7 @@
 layout: page
 permalink: /courses/
 title: Courses
-description: The more relevant courses I've taken in my undergraduate education at CMU
+description: The more relevant courses I've taken in my undergraduate + graduate education at CMU
 nav: true
 nav_order: 2
 ---
@@ -34,8 +34,15 @@ nav_order: 2
     </li>
     <li><b>03-320 Cell Biology</b> <i>Fall 2023</i>
     </li>
-    <li><b>02-331 Modeling Evolution</b> <i>Spring 2024</i>
+    <li><b>02-703 Intro to Statistical Genetics</b> <i>Fall 2024</i>
     </li>
+    <li><b>02-704 Graph Representation Learning in Biology</b> <i>Fall 2024</i>
+    </li>
+    <li><b>02-740 Bioimage Informatics</b> <i>Fall 2024</i>
+    </li>
+    <li><b>02-719 Genomics and Epigenetics of the Brain</b> <i>Fall 2024</i>
+    </li>
+
   </ul>
 </details>
 ---
