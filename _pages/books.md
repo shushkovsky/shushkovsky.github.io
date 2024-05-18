@@ -158,6 +158,24 @@ nav_order: 4
         {% include figure.liquid loading="eager" path="assets/img/books/strangeParadise.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
+    <div class="book">
+        <div>
+            <h2>Greenlights</h2>
+            <p>Matthew McConaughey</p>
+        </div>
+        <div class = "book img">
+        {% include figure.liquid loading="eager" path="assets/img/books/greenlights.jpg" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="book">
+        <div>
+            <h2>A Funny Thing Happened On The Way To The Future</h2>
+            <p>Michael J. Fox</p>
+        </div>
+        <div class = "book img">
+        {% include figure.liquid loading="eager" path="assets/img/books/michaelFox.jpg" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
 
     <!-- Add more book entries as needed -->
 
