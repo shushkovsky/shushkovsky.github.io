@@ -176,6 +176,15 @@ nav_order: 4
         {% include figure.liquid loading="eager" path="assets/img/books/michaelFox.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
+    <div class="book">
+        <div>
+            <h2>For Blood And Money</h2>
+            <p>Nathan Vardy</p>
+        </div>
+        <div class = "book img">
+        {% include figure.liquid loading="eager" path="assets/img/books/bloodAndMoney.jpg" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
 
     <!-- Add more book entries as needed -->
 
