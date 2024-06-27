@@ -3,7 +3,7 @@ layout: post
 title: Aron Kosoy Memoir
 date: 2024-06-22
 description: A Story from my grandpa's family during WWII
-thumbnail: 
+thumbnail: assets/img/aronKosoyMemoir/aronKosoyMemoirThumbnail.png
 ---
 
 My grandpa's brother wrote a memoir of his family's experiences during World War II and their family life during those years. 
