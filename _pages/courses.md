@@ -86,7 +86,7 @@ nav_order: 2
     </li>
     <li><b>82-391 Advanced Russian I</b> <i>Fall 2023</i>
       <p>Sang a lot of songs:
-      <a href="https://www.youtube.com/watch?v=dkhNCahl45Q&list=PLqwrcI0BDlPojuweVYboEtED5saUM7hPt&index=1">Ах, золотые купола</a>, 
+      <a href="https://www.youtube.com/watch?v=YTPcht-E6Sk">Ах, золотые купола</a>, 
       <a href="https://www.youtube.com/watch?v=dkhNCahl45Q&https://www.youtube.com/watch?v=0xYigp7DCWA&list=PLqwrcI0BDlPojuweVYboEtED5saUM7hPt&index=3">Когда весна стучит в окно</a>, 
       <a href="https://www.youtube.com/watch?v=hlGqMZ2FAko&list=PLqwrcI0BDlPojuweVYboEtED5saUM7hPt&index=4">Ты да я, да мы с тобой</a>
       </p>
