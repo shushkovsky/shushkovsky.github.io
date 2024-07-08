@@ -172,6 +172,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  beachSoccer:
+    output: true
+    permalink: /beachSoccer/:title/
 
 announcements:
   enabled: false
@@ -201,7 +204,9 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: 
+  - "_pages"
+  - "assets"
 exclude:
   - bin/
   - CONTRIBUTING.md

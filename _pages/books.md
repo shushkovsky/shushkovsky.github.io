@@ -3,7 +3,7 @@ layout: page
 permalink: /books/
 title: Books
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 <head>
     <meta charset="UTF-8">
