@@ -42,6 +42,8 @@ nav_order: 2
     </li>
     <li><b>02-719 Genomics and Epigenetics of the Brain</b> <i>Fall 2024</i>
     </li>
+    <li><b>09-737 Medicinal Chemistry and Drug Development</b> <i>Spring 2025</i>
+    </li>
 
   </ul>
 </details>
@@ -67,6 +69,8 @@ nav_order: 2
     <li><b>10-405 Machine Learning for Large Datasets</b> <i>Spring 2023</i>
     </li>
     <li><b>17-214 Principles of Software Construction</b> <i>Spring 2023</i>
+    </li>
+    <li><b>17-722 Building User-focused Sensing Systems</b> <i>Spring 2025</i>
     </li>
   </ul>
 </details>
