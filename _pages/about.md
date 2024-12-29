@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: B.S. Computational Biology, 2024 <br/> M.S. Computational Biology, 2025 <br/> Carnegie Mellon University
+subtitle: M.S. Computational Biology, 2025 <br/> B.S. Computational Biology, 2024 <br/>  Carnegie Mellon University
 
 profile:
   align: right

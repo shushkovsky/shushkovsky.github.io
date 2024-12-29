@@ -2,7 +2,7 @@
 layout: post
 title: Aron Kosoy Memoir
 date: 2024-06-22
-description: A Story from my grandpa's family during WWII
+description: A story from my grandpa's family during WWII
 thumbnail: assets/img/aronKosoyMemoir/aronKosoyMemoirThumbnail.png
 ---
 
