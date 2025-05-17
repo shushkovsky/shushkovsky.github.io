@@ -82,7 +82,7 @@ nav_order: 2
   <summary>Click to expand</summary>
   <ul>
     <li><b>82-293 Russian Cinema: From the Bolshevik Revolution to Putin's Russia</b> <i>Fall 2022</i>
-      <p> We watched a lot of Russian movies starting from the early 1900s to contemporary films. Some highlights include: <a href="https://www.youtube.com/watch?v=2rINnJat-5k">Летят журавли</a> (The Cranes Are Flying 1957), <a href="https://www.youtube.com/watch?v=O7xGW8UvBKQ">Судьба человека</a> (Fate of a Man 1959), <a href="https://www.youtube.com/watch?v=lVpmZnRIMKs">лёгким паром!</a> (Enjoy Your Bath! 1976), <a href="https://www.youtube.com/watch?v=HZslzk4GEPI">Курьер</a> (Courier 1986), <a href="https://www.youtube.com/watch?v=aDaaCGZz-Ok">Брат</a> (Brother 1997), <a href="https://www.youtube.com/watch?v=E8EcRBgYjMs">Стиляги</a> (Hipsters 2008) 
+      <p> We watched a lot of Russian movies starting from the early 1900s to contemporary films. Some highlights include: <a href="https://www.youtube.com/watch?v=2rINnJat-5k">Летят журавли</a> (The Cranes Are Flying 1957), <a href="https://www.youtube.com/watch?v=O7xGW8UvBKQ">Судьба человека</a> (Fate of a Man 1959), <a href="https://www.youtube.com/watch?v=L5GnqepBJkE">лёгким паром!</a> (Enjoy Your Bath! 1976), <a href="https://www.youtube.com/watch?v=HZslzk4GEPI">Курьер</a> (Courier 1986), <a href="https://www.youtube.com/watch?v=aDaaCGZz-Ok">Брат</a> (Brother 1997), <a href="https://www.youtube.com/watch?v=E8EcRBgYjMs">Стиляги</a> (Hipsters 2008) 
       </p>
     </li>
     <li><b>82-192 Elementary Russian II</b> <i>Spring 2023</i>
