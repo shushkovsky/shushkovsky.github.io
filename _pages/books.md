@@ -148,6 +148,16 @@ nav_order: 5
             <div class="book-title">For Blood And Money</div>
             <div class="book-author">Nathan Vardy</div>
         </div>
+        <div class="book">
+            <img src="/assets/img/books/lostYear.jpg" alt="The Lost Year">
+            <div class="book-title">The Lost Year</div>
+            <div class="book-author">Katherine Marsh</div>
+        </div>
+        <div class="book">
+            <img src="/assets/img/books/betweenShadesOfGray.jpg" alt="Between Shades of Gray">
+            <div class="book-title">Between Shades of Gray</div>
+            <div class="book-author">Ruta Sepetys</div>
+        </div>
         <!-- Add more books in this structure -->
     </div>
 </body>
