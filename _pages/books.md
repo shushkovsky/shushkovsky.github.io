@@ -158,6 +158,11 @@ nav_order: 5
             <div class="book-title">Between Shades of Gray</div>
             <div class="book-author">Ruta Sepetys</div>
         </div>
+        <div class="book">
+            <img src="/assets/img/books/demonCopperhead.jpg" alt="Demon Copperhead">
+            <div class="book-title">Demon Copperhead</div>
+            <div class="book-author">Barbara Kingsolver</div>
+        </div>
         <!-- Add more books in this structure -->
     </div>
 </body>
